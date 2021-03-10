@@ -6,4 +6,4 @@
 * 반응형
 * 고객지원 모바일 크기... 수정 파일 어디갔징...
 
-* https://ooonga.github.io/re01Staedtler/index.html
+* <a href="https://ooonga.github.io/re01Staedtler/index.html" target="_blank">https://ooonga.github.io/re01Staedtler/index.html</a>
