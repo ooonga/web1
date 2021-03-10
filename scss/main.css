@@ -1,0 +1,15 @@
+main {
+  width: 100%;
+  padding: 30px 15.5%;
+}
+
+.mainbanner {
+  margin: 50px 0;
+  height: 500px;
+  background: url("../img/main/main_banner.jpg") no-repeat center;
+  background-size: cover;
+}
+
+.inner {
+  margin-top: 50px;
+}
